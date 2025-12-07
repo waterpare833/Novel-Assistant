@@ -1,10 +1,15 @@
 # 📌 **🧭 처음 사용하는 분들을 위한 빠른 시작 가이드**
 
 👉 **프로그램 설치 방법은 아래 Wiki를 참고해주세요:**
+
 **[다운로드 및 설치 가이드](https://github.com/waterpare833/Novel-Assistant/wiki/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EB%B0%8F-%EC%84%A4%EC%B9%98-%EC%95%88%EB%82%B4)**
 
-Novel Assistant를 처음 실행하면,
-프로그램이 **두 가지 초기 설정**을 안내합니다:
+---
+
+### ✨ Novel Assistant가 유용한 이유
+
+> **Novel Assistant는 폴더 안의 문서들을 자동으로 분석하여, 소설·설정집·세계관 자료를 기반으로도 정확한 답변을 제공하는 개인용 AI 도우미입니다.**
+> 캐릭터 설정, 세계관 정리, 챕터 내용 등을 모두 기억해주는 “나만의 스토리 전용 AI”라고 생각하시면 됩니다.
 
 ---
 
@@ -15,7 +20,6 @@ Novel Assistant를 처음 실행하면,
 2. **AI 모델 설정(Ollama 또는 OpenRouter)**
 
 이 두 단계만 완료하면 바로 Home 화면으로 이동하여 사용할 수 있어요.
-
 
 ## 1️⃣ **Root Folder 선택하기**
 
