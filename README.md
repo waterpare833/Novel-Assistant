@@ -6,6 +6,10 @@
 
 **[업데이트 안내](https://github.com/waterpare833/Novel-Assistant/wiki/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%95%88%EB%82%B4)**
 
+👉 **추가 안내:**
+
+**[Ollama 모델 직접 선택 안내](https://github.com/waterpare833/Novel-Assistant/wiki/Ollama-%EB%AA%A8%EB%8D%B8-%EC%A7%81%EC%A0%91-%EC%84%A0%ED%83%9D-%EC%95%88%EB%82%B4)**
+
 ---
 
 ### ✨ Novel Assistant가 유용한 이유
