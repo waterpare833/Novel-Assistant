@@ -1,8 +1,10 @@
 # 📌 **🧭 처음 사용하는 분들을 위한 빠른 시작 가이드**
 
-👉 **프로그램 설치 방법은 아래 Wiki를 참고해주세요:**
+👉 **프로그램 설치 및 업데이트 방법은 아래 Wiki를 참고해주세요:**
 
 **[다운로드 및 설치 가이드](https://github.com/waterpare833/Novel-Assistant/wiki/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EB%B0%8F-%EC%84%A4%EC%B9%98-%EC%95%88%EB%82%B4)**
+
+**[업데이트 안내](https://github.com/waterpare833/Novel-Assistant/wiki/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%95%88%EB%82%B4)**
 
 ---
 
